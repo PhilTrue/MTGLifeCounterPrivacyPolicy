@@ -9,19 +9,3 @@ I have not programmed this app to collect any personally identifiable informatio
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email and I will surely try to fix it/help you.
 
 Yours sincerely, Philipp phil.true.business@gmail.com
-
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-MTGLifeCounter/PRIVACY_POLICY.md at master · PhilTrue/MTGLifeCounter
